@@ -1,0 +1,2 @@
+# cpptradingbot
+Trading Bot
